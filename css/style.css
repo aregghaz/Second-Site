@@ -1,0 +1,8 @@
+body {
+    padding-top: 20px;
+    min-width: 1624px;
+    overflow: auto;
+}
+.input {
+    left: 740px;
+}
